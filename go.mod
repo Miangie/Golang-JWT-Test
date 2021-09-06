@@ -1,4 +1,4 @@
-module git.miangie.dev/cookies
+module github.com/Miangie/Golang-JWT-Test 
 
 go 1.16
 
